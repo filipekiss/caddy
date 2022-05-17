@@ -1,4 +1,4 @@
-[![npm version](https://badge.fury.io/js/caddy-npm.svg)](https://badge.fury.io/js/caddy-npm)
+[![npm version](https://badge.fury.io/js/@filipekiss%2Fcaddy.svg)](https://badge.fury.io/js/@filipekiss%2Fcaddy)
 
 # caddy-npm
 
@@ -22,3 +22,7 @@ To test linux architectures (amd64, arm64, armv7 and i386), run the following:
 ```
 docker-compose build
 ```
+
+## Acknowledgments
+
+Forked from https://github.com/RecuencoJones/caddy-npm

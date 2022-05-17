@@ -1,10 +1,10 @@
 {
-  "name": "caddy-npm",
-  "version": "2.1.1",
+  "name": "@filipekiss/caddy",
+  "version": "2.5.1",
   "description": "Install caddy with npm",
   "repository": {
     "type": "git",
-    "url": "https://github.com/RecuencoJones/caddy-npm"
+    "url": "https://github.com/filipekiss/caddy"
   },
   "scripts": {
     "postinstall": "go-npm install",
