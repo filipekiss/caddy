@@ -12,7 +12,7 @@ Also check `goBinary.url` object to make sure binaries have matching versions.
 Then run:
 
 ```
-npm publish
+npm publish --access public
 ```
 
 ## Testing
